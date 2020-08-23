@@ -5,7 +5,7 @@
 ## What I'm Working on
 ✔️ Sayaka AIO | YeezySupply and Shopify Autocheckout Software\
 ✔️ Akemi Toolbox | Browser Spoofer, Cookie Generator, One-Click Farmer, and Proxy Tester\
-✔️ Shopify Monitors | Webhooks Webhooks Webhooks!\
+✔️ Shopify Monitors | Webhooks Webhooks Webhooks!
 
 ### Stats
 
