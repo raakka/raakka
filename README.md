@@ -9,4 +9,4 @@
 
 ### Stats
 
-![Raakka's github stats](https://github-readme-stats.vercel.app/api?username=Raakka&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Raakka's github stats](https://github-readme-stats.vercel.app/api?username=Raakka&show_icons=true&theme=highcontrast&include_all_commits=true)
