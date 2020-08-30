@@ -12,5 +12,5 @@
 
 ### My Stats
 
-![Raakka's github stats](https://github-readme-stats.vercel.app/api?username=Raakka&show_icons=true&theme=highcontrast&include_all_commits=true)
+![Raakka's github stats](https://github-readme-stats.vercel.app/api?username=Raakka&show_icons=true&theme=highcontrast&include_all_commits=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raakka&layout=compact&theme=highcontrast)
