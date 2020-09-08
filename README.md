@@ -5,7 +5,7 @@
 ## What I'm Working on
 ✔️ Akamai API | XVI x Musicbot\
 ✔️ Shopify Monitors | Webhooks Webhooks MySQL Webhooks!\
-✔️ Kell Controller | Angle Based Localizer and Robot Controler\
+✔️ Controller v2 | Angle Based Localizer and Robot Controller\
 ✔️ WRS Aerospace Toolbox | Modern Rocket Engine Design Software\
 ✔️ MQS | Moonlight Activity Oauth
 
