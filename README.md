@@ -3,8 +3,9 @@
 #### I have a broad skillset, from low level and embedded programing to full stack development, no project is too diverse or too complex.
 
 ## What I'm Working on
+✔️ Handshake Reader | ja3/tls Information API\
 ✔️ Akamai API | XVI x Musicbot\
-✔️ Shopify Monitors | Webhooks Webhooks MySQL Webhooks!\
+✔️ Shopify Monitors | Webhooks Webhooks Postgresql Webhooks\
 ✔️ Controller v2 | Angle Based Localizer and Robot Controller\
 ✔️ WRS Aerospace Toolbox | Modern Rocket Engine Design Software\
 ✔️ MQS | Moonlight Activity Oauth
