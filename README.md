@@ -8,7 +8,7 @@
 ✔️ Shopify Monitors | Webhooks Webhooks Postgresql Webhooks\
 ✔️ Controller v2 | Angle Based Localizer and Robot Controller\
 ✔️ WRS Aerospace Toolbox | Modern Rocket Engine Design Software\
-✔️ MQS | Moonlight Activity Oauth
+✔️ MQS | Webhooks and Things
 
 ### My Stats
 
