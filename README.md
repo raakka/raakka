@@ -5,7 +5,6 @@
 ## What I'm Working on
 ✔️ Boost AIO | Autocheckout Software\
 ✔️ Ghost APIs | High Performance Antibot-API's Built on Actix-PG\
-✔️ Shopify Monitors | Webhooks Webhooks Postgresql Webhooks\
 ✔️ Rust-Music | Discord Music Bot Made in Rust + PSQL\
 ✔️ Controller v2 | Angle Based Localizer and Robot Controller\
 ✔️ WRS Aerospace Toolbox | Modern Rocket Engine Design Software\
