@@ -11,7 +11,7 @@
 ✔️ MQS | Webhook and Activity Toolbox
 <h3>Check Out My Blog <a href=https://xvi.cool/blog>Here!</a></h2>
 
-### My Stats
+## My Stats
 
 ![Raakka's github stats](https://github-readme-stats.vercel.app/api?username=Raakka&show_icons=true&theme=highcontrast&include_all_commits=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raakka&layout=compact&theme=highcontrast&langs_count=6)
