@@ -1,10 +1,11 @@
 <h1 align="center">A 21st Century Rockstar 🎸</h1>
 
-#### I have a broad skillset, from low level and embedded programing to full stack development, no project is too diverse or too complex. Check
+#### I have a broad skillset, from low level and embedded programing to full stack development, no project is too diverse or too complex.
 
 ## What I'm Working on
 ✔️ Boost AIO | Autocheckout Software\
-✔️ Ghost APIs | High Performance Antibot-API's Built on Actix-PG\
+✔️ Penta-lang | Toolchain Aimed at Simplifying CS Methodologies\
+✔️ Xpreme | High Performance Supreme Solutions Built on Rust\
 ✔️ Rust-Music | Discord Music Bot Made in Rust + PSQL\
 ✔️ Controller v2 | Angle Based Localizer and Robot Controller\
 ✔️ WRS Aerospace Toolbox | Modern Rocket Engine Design Software\
