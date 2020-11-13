@@ -4,7 +4,7 @@
 
 ## What I'm Working on
 ✔️ Boost AIO | Autocheckout Software\
-✔️ Penta-lang | Toolchain Aimed at Simplifying CS Methodologies\
+✔️ Penta-lang | Language Aimed at Simplifying CS Methodologies\
 ✔️ Xpreme | High Performance Supreme Solutions Built on Rust\
 ✔️ Rust-Music | Discord Music Bot Made in Rust + PSQL\
 ✔️ Controller v2 | Angle Based Localizer and Robot Controller\
