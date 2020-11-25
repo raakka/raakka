@@ -3,7 +3,7 @@
 ### I have a broad skillset, from low level and embedded programing to full stack development, no project is too diverse or too complex. 🚀
 
 ## What I'm Working on
-💊 **Pill ICS** | International Cloud Systems Solutions
+💊 **Pill ICS** | International Cloud Systems Solutions\
 🟠 **Penta-lang** | Language Aimed at Simplifying CS Methodologies\
 🖤 **Xpreme** | High Performance Supreme Solutions Built on Rust\
 🤖 **Controller v2** | Angle Based Localizer and Robot Controller\
