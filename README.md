@@ -3,14 +3,13 @@
 ### I have a broad skillset, from low level and embedded programing to full stack development, no project is too diverse or too complex. 🚀
 
 ## What I'm Working on
-✔️ Boost AIO | Autocheckout Software\
-✔️ Penta-lang | Language Aimed at Simplifying CS Methodologies\
-✔️ Xpreme | High Performance Supreme Solutions Built on Rust\
-✔️ Rust-Music | Discord Music Bot Made in Rust + PSQL\
-✔️ Controller v2 | Angle Based Localizer and Robot Controller\
-✔️ WRS Aerospace Toolbox | Modern Rocket Engine Design Software\
-✔️ MQS | Webhook and Activity Toolbox
-<h3>Check Out My Blog <a href=https://xvi.cool/blog>Here!</a></h2>
+💊 **Pill ICS** | International Cloud Systems Solutions
+🟠 **Penta-lang** | Language Aimed at Simplifying CS Methodologies\
+🖤 **Xpreme** | High Performance Supreme Solutions Built on Rust\
+🤖 **Controller v2** | Angle Based Localizer and Robot Controller\
+🚀 **WRS Aerospace Toolbox** | Modern Rocket Engine Design Software
+
+### My blog | <a href=https://xvi.cool/blog>Here!</a>
 
 ## My Stats
 
