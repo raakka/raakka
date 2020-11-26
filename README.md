@@ -1,15 +1,14 @@
 <h1 align="center">A 21st Century Rockstar 🎸</h1>
 
-### I have a broad skillset, from low level and embedded programing to full stack development, no project is too diverse or too complex. 🚀
+<h3 align="center"> I have a broad skillset, from low level and embedded programing to full stack development, no project is too diverse or too complex.</h3>
 
 ## What I'm Working on
 💊 **Pill ICS** | International Cloud Systems Solutions\
 🟠 **Penta-lang** | Language Aimed at Simplifying CS Methodologies\
 🖤 **Xpreme** | High Performance Supreme Solutions Built on Rust\
 🤖 **Controller v2** | Angle Based Localizer and Robot Controller\
-🚀 **WRS Aerospace Toolbox** | Modern Rocket Engine Design Software
-
-### My blog | <a href=https://xvi.cool/blog>Here!</a>
+🚀 **WRS Aerospace Toolbox** | Modern Rocket Engine Design Software\
+🌐 **My blog** | <a href=https://xvi.cool/blog>xvi.cool</a>
 
 ## My Stats
 
