@@ -4,7 +4,7 @@
 
 ## What I'm Working on
 💊 **Pill Software** | Scalable Software for Everyone\
-🏎️ **CC** | Research Paper Exploring PureEdgeSim\ 
+🏎️ **CC** | Research Paper Exploring PureEdgeSim\
 🤖 **Taurus** | Stero Computer Vision Software\
 🚀 **Metal Toolbox** | Modern Rocket Engine Design Software\
 🌐 **My blog** | <a href=https://xvi.cool/blog>xvi.cool</a>
