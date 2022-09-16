@@ -1,13 +1,11 @@
-<h1 align="center">A 21st Century Rockstar 🎸</h1>
+<h1 align="center">XVI 🏌️‍♂️</h1>
 
-<h3 align="center"> I have a broad skillset, from low level and embedded programing to full stack development, no project is too diverse or too complex.</h3>
+<h4 align="center">I have experience in low-level systems, DevOps engineering, computer vision, reverse engineering, ZKVMs, and full stack development.<br />I love learning new things and I like to chat about performance focused languages or tooling. Nice to meet you!</h4>
 
 ## What I'm Working on
-💊 **Pill Software** | Scalable Software for Everyone\
-🏎️ **CC** | Research Paper Exploring PureEdgeSim\
-🤖 **Taurus** | Stero Computer Vision Software\
-🚀 **Metal Toolbox** | Modern Rocket Engine Design Software\
-🌐 **My blog** | <a href=https://xvi.cool/blog>xvi.cool</a>
+
+- 🌐 **My blog** | <a href=https://xvi.cool/blog>xvi.cool</a>
+- 🖥️ **Stealth Projects**
 
 ## My Stats
 
